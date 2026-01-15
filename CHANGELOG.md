@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-service-folkbokforing.
 
+## 0.2.4 (2026-01-15)
+
+### Bug Fixes
+
+-  added healthcheck ([e64fd](https://github.com/Forsakringskassan/rimfrost-service-folkbokforing/commit/e64fd9dcf9e4916) Nils Elveros)  
+
 ## 0.2.3 (2025-12-18)
 
 ### Bug Fixes
