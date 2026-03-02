@@ -9,8 +9,8 @@
   </parent>
 
   <groupId>fk.rimfrost</groupId>
-  <artifactId>folkbokford</artifactId>
-  <version>0.1.0</version>
+  <artifactId>folkbokford-ulf</artifactId>
+  <version>testulf</version>
 
   <properties>
     <violations.maxViolations>0</violations.maxViolations>
