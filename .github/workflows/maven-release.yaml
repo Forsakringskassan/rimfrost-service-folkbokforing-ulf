@@ -4,7 +4,7 @@ on: [workflow_dispatch]
 
 jobs:
   call-workflow:
-    uses: Forsakringskassan/github-ulf/.github/workflows/bundle-maven-release.yaml@build-manifest-instead-of-buildx
+    uses: Forsakringskassan/github-ulf/.github/workflows/bundle-maven-release.yaml@test
     secrets:
       PACKAGES_RW_ACTOR: ${{ secrets.PACKAGES_RW_ACTOR }}
       PACKAGES_RW_TOKEN: ${{ secrets.PACKAGES_RW_TOKEN }}
